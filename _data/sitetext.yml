@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Are You Prepared?
-    text: Preparedness by the Numbers
+    title: Preparedness by the Numbers
+    text: Are You Prepared?
     button: Tell Me More
     buttonlink: "#services"
 
