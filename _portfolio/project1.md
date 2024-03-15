@@ -1,11 +1,11 @@
 ---
-title: Project Threads
+title: New to Preparedness
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/01-full.jpg
 alt: Shirts on a hanger
 
 caption:
-  title: Threads
+  title: New to Preparedness
   subtitle: Illustration
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
